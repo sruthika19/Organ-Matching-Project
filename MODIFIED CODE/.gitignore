@@ -1,0 +1,24 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.log
+
+# Django
+db.sqlite3
+/media/
+/staticfiles/
+/.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if using Truffle or other blockchain JS tools)
+node_modules/
+build/
+.env
